@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://szres.github.io/sitemap.xml
+Sitemap: https://www.szres.org/sitemap.xml
